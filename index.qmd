@@ -14,8 +14,3 @@ about:
 ---
 
 Hi there! My name is Samantha and I am a fourth-year undergraduate student at UCSB, majoring in Environmental Studies.
-
-
-```{r}
-1 + 1
-```
