@@ -1,10 +1,20 @@
 ---
-title: "samantha-ross2303.github.io"
+title: "Samantha Ross"
+image: media/IMG_9335.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: GitHub
+      href: https://github.com/samantha-ross2303
+    - text: Email
+      href: mailto:samantha_ross@ucsb.edu
 ---
 
-This is a Quarto website.
+Hi there! My name is Samantha and I am a fourth-year undergraduate student at UCSB, majoring in Environmental Studies.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1
