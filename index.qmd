@@ -9,8 +9,10 @@ about:
   links:
     - text: GitHub
       href: https://github.com/samantha-ross2303
+      icon: github
     - text: Email
       href: mailto:samantha_ross@ucsb.edu
+      icon: envelope-heart-fill
 ---
 
 Hi there! My name is Samantha and I am a fourth-year undergraduate student at UCSB, majoring in Environmental Studies.
