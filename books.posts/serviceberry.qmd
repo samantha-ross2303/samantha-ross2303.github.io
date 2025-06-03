@@ -6,8 +6,10 @@ image: books.media/berryfront.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-I read this book for Professor Lisa Sideris' Nature Spirituality course this spring quarter.
+I read this book for Professor Lisa Sideris' Nature Spirituality course this spring quarter. Then I picked some ripe and tangy loquats off a tree on campus and thought a lot about gift economies. A short, profound read.
 
 ![](books.media/berryfront.jpeg){fig-align="center"}
 
-![](books.media/berryinside.jpeg){fig-align="center"} ![](books.media/berryback.jpeg){fig-align="center"}
+![](books.media/berryinside.jpeg){fig-align="center"} 
+
+![](books.media/berryback.jpeg){fig-align="center"}

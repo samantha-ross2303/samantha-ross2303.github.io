@@ -1,5 +1,13 @@
 ---
-title: "homeplace"
-format: html
+title: "The Home Place"
+description: "By J. Drew Lanham"
+categories: New # self-defined categories (New, Used, Gifted)
+image: books.media/homeplacefront.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+I read this book for Professor Lisa Sideris' Nature Spirituality course this spring quarter. A beautiful love story about Lanham and the natural world, exploring themes of race and the American landscape. 
+
+![](books.media/homeplacefront.jpeg){fig-align="center"}
+
+![](books.media/homeplaceinside.jpeg){fig-align="center"}
