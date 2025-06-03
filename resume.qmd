@@ -1,3 +1,6 @@
 ---
 title: "Resume"
+description: "Samantha's Resume"
 ---
+
+![](media/quartoresume.pdf){fig-align="center"}

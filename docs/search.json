@@ -103,5 +103,12 @@
     "title": "The Home Place",
     "section": "",
     "text": "I read this book for Professor Lisa Sideris’ Nature Spirituality course this spring quarter. A beautiful love story about Lanham and the natural world, exploring themes of race and the American landscape."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "{{&lt; pdf 'quartoresume.pdf' 100% 800 &gt;}}"
   }
 ]
