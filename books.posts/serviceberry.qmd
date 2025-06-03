@@ -10,6 +10,4 @@ I read this book for Professor Lisa Sideris' Nature Spirituality course this spr
 
 ![](books.media/berryfront.jpeg){fig-align="center"}
 
-![](books.media/berryinside.jpeg){fig-align="center"}
-![](books.media/berryback.jpeg){fig-align="center"}
-
+![](books.media/berryinside.jpeg){fig-align="center"} ![](books.media/berryback.jpeg){fig-align="center"}

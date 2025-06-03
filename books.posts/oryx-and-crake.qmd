@@ -5,6 +5,7 @@ categories: Gifted # self-defined categories (New, Used, Gifted)
 image: books.media/oryxfront.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
+
 My friend Ailish gave me this book in high school. I didn't read it til now. It is one of her favorites.
 
 ![](books.media/oryxfront.jpeg){fig-align="center"}

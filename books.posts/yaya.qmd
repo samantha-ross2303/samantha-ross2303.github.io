@@ -1,0 +1,13 @@
+---
+title: "Divine Secrets of the Ya-Ya Sisterhood"
+description: "By Rebecca Wells"
+categories: Gifted # self-defined categories (New, Used, Gifted)
+image: books.media/yayafront.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+My grandma, Martha Ross, passed away a couple years ago. My grandpa wanted me to look through her things and take what I wanted. I chose this book because it looked worn and loved. It makes me feel closer to her, seeing the pages she dog-eared.
+
+![](books.media/yayafront.jpeg){fig-align="center"}
+
+![](books.media/yayaback.jpeg){fig-align="center"}
