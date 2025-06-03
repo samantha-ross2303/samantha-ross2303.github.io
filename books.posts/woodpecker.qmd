@@ -1,5 +1,14 @@
 ---
-title: "woodpecker"
-format: html
+title: "Still Life With Woodpecker"
+description: "By Tom Robbins"
+categories: Used # self-defined categories (New, Used, Gifted)
+image: books.media/woodpeckerfront.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
+
+Winter break, my two friends, Sema and Naomi, and I went on a glorious PNW road trip. Sitting in a Portland cafe, a super cool looking girl was reading *Jitterbug Perfume* by Tom Robbins. I took a mental note, and a couple weeks later I found this one at Bart's Books in Ojai. I like this quote, "Don't let yourself be victimized by the age you live in. It's not the times that will bring us down, any more than it's society. When you put the blame on society, then you end up turning to society for the solution." And the passage about smoking.
+
+![](books.media/woodpeckerfront.jpeg){fig-align="center"}
+
+![](books.media/woodpeckerback.jpeg){fig-align="center"}
 

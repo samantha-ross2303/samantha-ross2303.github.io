@@ -6,7 +6,7 @@ image: books.media/chocolatefront.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-This is my third time reading this book. I read it first in Spanish - *Como Agua Para Chocolate* - in my high school AP Spanish class. I've read this copy once before, but I love it so much I read it again. There's not many books I choose to re-read. My mom was gifted this copy for her 24th birthday by her best friend Jasmin, then she gave it to me. See the sweet note below...
+This is my third time reading this book. I read it first in Spanish - *Como Agua Para Chocolate* - in my high school AP Spanish class. I've read this copy once before, but I love it so much I read it again. There's not many books I choose to re-read. My mom was gifted this copy for her 24th birthday by her best friend Jasmin, then she gave it to me. See the sweet note below... 
 
 ![](books.media/chocolatefront.jpeg){fig-align="center"}
 
