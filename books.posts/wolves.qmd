@@ -1,5 +1,13 @@
 ---
-title: "wolves"
-format: html
+title: "Women Who Run With the Wolves"
+description: "By Clarissa Pinkola Estés, Ph.D."
+categories: Used # self-defined categories (New, Used, Gifted)
+image: books.media/wolvesfront.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+Myths and Stories of the Wild Woman Archetype... this book reminds me to listen to my instincts. And helped me make some hard decisions. My cousin Bella recommended it to me, and a few weeks later I found it at Walden Pond Books in Oakland- thank you Bella!
+
+![](books.media/wolvesfront.jpeg){fig-align="center"}
+
+![](books.media/wolvesback.jpeg){fig-align="center"}
