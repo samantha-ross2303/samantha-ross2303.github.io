@@ -2,10 +2,17 @@
   {
     "listing": "/books.html",
     "items": [
+      "/books.posts/mothertree.html",
+      "/books.posts/solomon.html",
       "/books.posts/yaya.html",
       "/books.posts/serviceberry.html",
       "/books.posts/oryx-and-crake.html",
-      "/books.posts/frogpajamas.html"
+      "/books.posts/woodpecker.html",
+      "/books.posts/galaxy.html",
+      "/books.posts/frogpajamas.html",
+      "/books.posts/homeplace.html",
+      "/books.posts/chocolate.html",
+      "/books.posts/wolves.html"
     ]
   }
 ]

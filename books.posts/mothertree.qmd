@@ -1,0 +1,14 @@
+---
+title: "Finding the Mother Tree"
+description: "By Suzanne Simard"
+categories: New # self-defined categories (New, Used, Gifted)
+image: books.media/motherfront.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+Professor Iris Holzer recommended we (the students of her soil science class) see Suzanne Simard speak at Cambell Hall. She is a forestry scientist, who has done groundbreaking research on forest ecology and plant intelligence. I found her talk to be so inspiring that I bought her book. The Mother Tree Project is something I'd like to get involved in. 
+
+![](books.media/motherfront.jpeg){fig-align="center"}
+
+![](books.media/motherback.jpeg){fig-align="center"}
+
