@@ -11,6 +11,20 @@
     "href": "index.html",
     "title": "Samantha Ross",
     "section": "",
-    "text": "Hi there! My name is Samantha and I am a fourth-year undergraduate student at UCSB, majoring in Environmental Studies."
+    "text": "Hi there! My name is Samantha and I am a fourth-year undergraduate student at UCSB, majoring in Environmental Studies. When I am not in class or rolling bagels at my job, I like to read, make art and good food, play music with my sister, and explore Santa Barbara with my friends."
+  },
+  {
+    "objectID": "books.html",
+    "href": "books.html",
+    "title": "Books",
+    "section": "",
+    "text": "Oryx and Crake\n\n\n\nGifted\n\n\n\nBy Margaret Attwood\n\n\n\n\n\nInvalid Date\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "books.posts/oryx-and-crake/index.html",
+    "href": "books.posts/oryx-and-crake/index.html",
+    "title": "Oryx and Crake",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{untitled,\n  author = {},\n  title = {Oryx and {Crake}},\n  url = {https://samantha-ross2303.github.io/books.posts/oryx-and-crake/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“Oryx and Crake.” n.d. https://samantha-ross2303.github.io/books.posts/oryx-and-crake/."
   }
 ]

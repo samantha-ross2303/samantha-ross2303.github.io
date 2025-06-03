@@ -1,5 +1,11 @@
 ---
 title: "Books"
+image: media/bookworm.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
 listing: 
   contents: books.posts # all Quarto docs in the `books.posts` directory will be included on your listing page
   type: grid # or `default` or `table`; each type has its own set of yaml options to include
