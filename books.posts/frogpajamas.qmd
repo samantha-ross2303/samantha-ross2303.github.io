@@ -6,7 +6,7 @@ image: books.media/frogfront.jpeg
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
-I first read "Still Life With Woodpecker" and got hooked on Tom Robbins and his whimsical, philosophic writing. I found this gem at Paperback Alley in Old Town Goleta.
+I first read *Still Life With Woodpecker* and got hooked on Tom Robbins and his whimsical, philosophic writing. I found this gem at Paperback Alley in Old Town Goleta.
 
 ![](books.media/frogfront.jpeg){fig-align="center"}
 

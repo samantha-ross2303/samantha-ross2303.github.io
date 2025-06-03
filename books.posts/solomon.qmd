@@ -1,5 +1,13 @@
 ---
-title: "solomon"
-format: html
+title: "Song of Solomon"
+description: "By Toni Morrison"
+categories: Gifted # self-defined categories (New, Used, Gifted)
+image: books.media/solomonfront.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+Like *Divine Secrets of the Ya-Ya Sisterhood*, this book is from my grandma. *Song of Solomon* is my favorite book I have read this year - I laughed, I cried, I felt nostalgic for a place and time I've never existed in. I recommend this powerful novel to anyone. “You wanna fly, you got to give up the shit that weighs you down.”
+
+![](books.media/solomonfront.jpeg){fig-align="center"}
+
+![](books.media/solomonback.jpeg){fig-align="center"}
