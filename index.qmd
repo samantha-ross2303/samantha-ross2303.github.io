@@ -15,4 +15,4 @@ about:
       icon: envelope-heart-fill
 ---
 
-Hi there! My name is Samantha and I am a fourth-year undergraduate student at UCSB, majoring in Environmental Studies.
+Hi there! My name is Samantha and I am a fourth-year undergraduate student at UCSB, majoring in Environmental Studies. When I am not in class or rolling bagels at my job, I like to read, make art and good food, play music with my sister, and explore Santa Barbara with my friends.
