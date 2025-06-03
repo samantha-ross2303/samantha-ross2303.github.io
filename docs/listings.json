@@ -2,6 +2,7 @@
   {
     "listing": "/books.html",
     "items": [
+      "/books.posts/serviceberry.html",
       "/books.posts/oryx-and-crake.html"
     ]
   }

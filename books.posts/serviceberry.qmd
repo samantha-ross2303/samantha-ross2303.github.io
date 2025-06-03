@@ -1,0 +1,15 @@
+---
+title: "The Serviceberry"
+description: "By Robin Wall Kimmerer"
+categories: New # self-defined categories (New, Used, Gifted)
+image: books.media/berryfront.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+I read this book for Professor Lisa Sideris' Nature Spirituality course this spring quarter.
+
+![](books.media/berryfront.jpeg){fig-align="center"}
+
+![](books.media/berryinside.jpeg){fig-align="center"}
+![](books.media/berryback.jpeg){fig-align="center"}
+
