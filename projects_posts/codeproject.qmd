@@ -2,7 +2,7 @@
 title: "Personal Data Visualization"
 description: "Homework 3 for ENVS 193DS"
 categories: Code # self-defined categories (Art, Code, Writing)
-image: projects_media/crabsnarl.png
+image: projects_media/datavisualization.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 execute:
   message: false # use this to make sure messages don't show up
