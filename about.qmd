@@ -16,10 +16,20 @@ Other things I love...
 
 ## Searching for cool mushrooms
 
-::: {layout="[[1, 1], [1]]"}
-![Tucker proudly carrying a big stick at Sibley Volcanic Regional Preserve, December 2022.](media/baba1.jpeg)
+::: {layout="[[1, 1], [1, 0]]"}
+![Amanita at Sibley Volcanic Regional Preserve, December 2023.](media/mushy1.jpeg)
 
-![Happy Tucker wet from the rain at Reinhardt Redwood Regional Park, December 2021.](media/baba2.jpeg)
+![I don't know what these are but I saw them off Grizzly Peak in Oakland, December 2024.](media/mushy2.jpeg)
 
-![Munching on some grass on a fire trail by by house, April 2023.](media/baba3.jpeg)
+![I also don't know what these are but I saw them in the Jedediah Smith Redwoods State Park, April 2023.](media/mushy3.jpeg)
+:::
+
+## Capturing my travels on film
+
+::: {layout="[[1, 1], [1, 0]]"}
+![Joshua tree in Joshua Tree National Park, March 2023.](media/joshtree.jpeg)
+
+![Bikes in Amsterdam, July 2023.](media/amsterdam.jpeg)
+
+![View of the taro fields in Hanalei, September 2024.](media/hawaii.jpeg)
 :::
