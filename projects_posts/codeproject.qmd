@@ -1,5 +1,138 @@
 ---
-title: "codeproject"
-format: html
+title: "Personal Data Visualization"
+description: "Homework 3 for ENVS 193DS"
+categories: Code # self-defined categories (Art, Code, Writing)
+image: projects_media/crabsnarl.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+execute:
+  message: false # use this to make sure messages don't show up
+  warning: false # use this to make sure warnings don't show up
 ---
+For Problem 1 in this homework assignment, I practiced my skills of data summarizing, data visualization, caption writing, and table creation. I used the data I collected over the quarter, where the response variable is the distance I walked/ran per day and the predictor variables are school day (yes/no), location, high temperature, low temperature, weather, and duration of sleep the night before. 
 
+# Part 1. Set up tasks
+
+```{r reading-in-packages}
+
+library(tidyverse)
+library(ggplot2)
+library(flextable)
+library(gt)
+library(here)
+library(janitor)
+library(readxl)
+library(dplyr)
+library(scales)
+
+personal_data <- read_csv(here("projects_posts/projects_media", "[ENVS 193DS] Personal Data - Samantha Ross - Sheet1 (1).csv")) # storing personal data as an object called personal_data
+
+```
+
+# Part 2. Problems
+
+## Problem 1. Personal Data
+
+### a. Data Summarizing
+
+I could calculate the **mean walking and running distance** to compare between **school days and non-school days**, because I suspect that I walk more on school days due to commuting between classes and other campus activities. This comparison would help show how my routine affects my physical activity levels.
+
+### b. Visualization
+
+```{r personal-data-visualization}
+
+#cleaning data 
+personal_data_clean <- personal_data |> #creating a clean data frame
+  clean_names() |> # cleaning column names
+  mutate(school_day = as_factor(school_day),
+         school_day = fct_relevel(school_day,
+                                    "no",
+                                    "yes"), # making sure that school_day is a factor and ordering levels
+         school_day = case_when(
+           school_day == "yes" ~ "School Day", 
+           school_day == "no" ~ "Non-School Day"
+  )) |> # replacing the values in the school_day column so that "yes" is now "School Day" and "no" is now "Non-School Day"
+  select(school_day, walking_and_running_distance_miles) # selecting columns of interest
+
+#summarizing data
+personal_data_summary <- personal_data_clean |> # starting with the clean data frame
+  group_by(school_day) |> # group by school day
+  summarize(mean = mean(walking_and_running_distance_miles), # calculate mean miles walked/ran
+            n = length(walking_and_running_distance_miles), # calculate the number of observations per type of day (sample size)
+            sd = sd(walking_and_running_distance_miles), # calculate the standard deviation
+            se = sd/sqrt(n), # calculate the standard error
+            ci = mean_cl_normal(walking_and_running_distance_miles) # calculate the confidence interval
+            ) |> 
+  unnest_wider(ci)  # split the CI column into ymin and ymax
+
+# display personal_data_summary
+personal_data_summary
+
+# base layer: ggplot
+ggplot(data = personal_data_clean, # starting data frame
+       aes(x = school_day, # x-axis
+           y = walking_and_running_distance_miles, # y-axis
+           color = school_day)) + # coloring by school day
+  
+# first layer: jitter plot
+  geom_jitter(height = 0, # making sure points don't move along y-axis
+              width = 0.2, # narrowing width of jitter
+              alpha = 0.4, # make the points more transparent
+              shape = 1) + # make the points open circles
+  
+# second layer: showing the summary (mean and standard error)
+  geom_pointrange(data = personal_data_summary, # using the personal_data_summary data frame
+                  aes(x = school_day, # x-axis
+                      y = mean, # y-axis
+                      ymax = mean + se, # upper bound of standard error
+                      ymin = mean - se), # lower bound of standard error
+                  size = 0.25) + # changing the size
+# customization
+  scale_color_manual(
+      values = c(
+      "School Day" = "dodgerblue",
+      "Non-School Day" = "magenta3")
+  )+ # changing the colors from default
+  labs(
+    title = "Average Walking and Running Distance\nby Day", # adding a title
+    x = "Day", # changing the name of the x-axis
+    y = "Walking and Running Distance (miles)" # changing the name of the y-axis
+  ) +
+  theme_bw() + # changing theme from default
+  theme(
+    panel.grid = element_blank(), # removing the grid
+    plot.title = element_text(face = "bold"), # making the title bold
+    panel.background = element_blank(), # making the background white
+    text = element_text(size = 14), # making the text larger
+    legend.position = "none" # taking out the legend
+  )
+
+```
+
+### c. Caption
+
+Figure 1. Comparison of average walking and running distance (miles) ± standard error (SE) by school day (n = 18) and non-school day (n = 12) sites. Open circles represent an individual day. Filled circles with error bars indicate the mean ± standard error for each type of day. Data from Samantha Ross.
+
+### d. Table presentation
+
+```{r personal-data-summary-table}
+
+personal_data_summary |> # starting data frame
+  select(!c(n, y)) |>  # exclude n and y columns
+  rename(
+    "Mean" = mean, 
+    "Day" = school_day,
+    "Standard deviation" = sd,
+    "Standard error" = se,
+    "95% CI Lower" = ymin,
+    "95% CI Upper" = ymax
+  ) |> # renaming columns
+  gt() |> # gt call
+  tab_header(
+    title = "Summary of Walking and Running Distance by Day"
+  ) |> # adding a title
+  fmt_number(
+    columns = where(is.numeric),
+    decimals = 1
+  ) # rounding all numbers to one decimal point
+
+```

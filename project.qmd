@@ -8,4 +8,4 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 ---
 
-Here are a couple of the projects I have worked on this year. 
+Here are a few of the projects I have worked on this year. 

@@ -16,8 +16,6 @@ website:
 format:
   html:
     theme: morph
-      light: [morph, theme.scss]
-      dark: [morph, theme-dark.scss]
     css: styles.css
     toc: true
     page-layout: full

@@ -6,3 +6,4 @@ image: projects_media/crabsnarl.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 
+Thank you to Professor Liz Carlisle for this incredible opportunity! Check out the [op-ed on Civil Eats](https://civileats.com/2025/06/04/op-ed-save-californias-crab-culture-from-drowning-in-regulations/).
