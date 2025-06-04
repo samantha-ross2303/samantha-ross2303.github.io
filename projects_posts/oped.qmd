@@ -1,0 +1,8 @@
+---
+title: "Save California’s Crab Culture From Drowning in Regulations"
+description: "Winning Op-ed from ENVS 149"
+categories: Writing # self-defined categories (Art, Code, Writing)
+image: projects_media/crabsnarl.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+

@@ -13,4 +13,4 @@ listing:
   categories: true # allows you to sort posts by assigned categories 
 ---
 
-Here are all the books I have read this school year! I \<3 reading :)
+Here are all the books I have read this school year! I <3 reading :)
