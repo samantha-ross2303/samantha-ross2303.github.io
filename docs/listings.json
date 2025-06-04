@@ -14,5 +14,12 @@
       "/books.posts/chocolate.html",
       "/books.posts/wolves.html"
     ]
+  },
+  {
+    "listing": "/project.html",
+    "items": [
+      "/projects_posts/beertabshirt.html",
+      "/projects_posts/codeproject.html"
+    ]
   }
 ]

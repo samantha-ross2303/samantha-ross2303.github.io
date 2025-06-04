@@ -2,6 +2,7 @@
 title: "About Me"
 toc: false
 ---
+
 Other things I love...
 
 ## Hiking with my dog, Tucker

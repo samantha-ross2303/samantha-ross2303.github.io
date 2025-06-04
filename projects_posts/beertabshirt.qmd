@@ -1,0 +1,9 @@
+---
+title: "Beer Tab Shirt"
+description: "Creative Project for Environmental Studies 101"
+categories: Art # self-defined categories (Art, Code)
+image: projects_media/beertab3.jpeg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+I collected aluminum beer and soda pop tabs, and a couple of tuna can tabs, during fall quarter from my Isla Vista community. Using pliers, wire cutters, and repurposed ribbon, I created a chainmail shirt out of this material that otherwise would have ended up in the landfill - or hopefully a recycling center. I do not know the exact number of tabs I collected, but I was surprised how quickly the tabs added up. This shirt depicts the environmental impacts of Isla Vista’s party scene, serving as a cultural mirror, reflecting stories about us consumers in each can. These single use can tabs are my treasure, but trash to many others. I was thinking of the excerpt from Waste Landscapes from Week 3 when I created this shirt. Waste is seen as something dirty and shameful, something to be hidden away. This thought process takes away its potential to become something beautiful and useful, to flow back into nature and culture. With this project, I am hoping to reduce the stigma around waste, and inspire others to see waste in a new light. Waste negatively impacts all ecosystem services, contaminating air, water, soil, aesthetically polluting sacred natural spaces, directly harming wildlife through ingestion or entanglement, etc. Creating something new and beautiful is ecosystem service that I offer to the planet.
