@@ -6,6 +6,16 @@ Other things I love...
 
 ## Hiking with my dog, Tucker
 
+::: {layout="[[1, 1], [1, 0]]"}
+![Tucker proudly carrying a big stick at Sibley Volcanic Regional Preserve, December 2022.](media/baba1.jpeg)
+
+![Happy Tucker wet from the rain at Reinhardt Redwood Regional Park, December 2021.](media/baba2.jpeg)
+
+![Munching on some grass on a fire trail by by house, April 2023.](media/baba3.jpeg)
+:::
+
+## Searching for cool mushrooms
+
 ::: {layout="[[1, 1], [1]]"}
 ![Tucker proudly carrying a big stick at Sibley Volcanic Regional Preserve, December 2022.](media/baba1.jpeg)
 
