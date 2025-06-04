@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Other things I love…"
   },
   {
     "objectID": "index.html",
@@ -110,5 +110,12 @@
     "title": "Resume",
     "section": "",
     "text": "{fig-align=“center”, width=100% height=800}"
+  },
+  {
+    "objectID": "about.html#hiking-with-my-dog-tucker",
+    "href": "about.html#hiking-with-my-dog-tucker",
+    "title": "About Me",
+    "section": "Hiking with my dog, Tucker",
+    "text": "Hiking with my dog, Tucker\n\n\n\n\n\n\n\n\n\nTucker proudly carrying a big stick at Sibley Volcanic Regional Preserve, December 2022.\n\n\n\n\n\n\n\nHappy Tucker wet from the rain at Reinhardt Redwood Regional Park, December 2021.\n\n\n\n\n\n\n\n\n\nMunching on some grass on a fire trail by by house, April 2023."
   }
 ]
